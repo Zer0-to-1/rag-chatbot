@@ -95,11 +95,6 @@ rag_chatbot_baby_steps/
 
 ---
 
-## 🏁 What to write on your resume (truthful)
-> **Built a local RAG chatbot (Ollama + Chroma + Streamlit)** that answers questions over uploaded PDFs; implemented PDF chunking, embeddings, top‑k retrieval, and a chat UI with source citations.
-
----
-
 ## 🙏 Credits
 - Local LLM runtime powered by **Ollama**.
 - Text embeddings by **sentence-transformers** (`all-MiniLM-L6-v2`).
