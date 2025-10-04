@@ -1,0 +1,12 @@
+﻿.venv/
+venv/
+vectordb/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+.vscode/
+.streamlit/
+*.pdf
+!RAG_Test_Handbook.pdf
